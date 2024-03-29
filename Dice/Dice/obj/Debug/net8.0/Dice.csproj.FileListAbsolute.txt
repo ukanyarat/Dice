@@ -1,0 +1,14 @@
+D:\for github\Dice\Dice\obj\Debug\net8.0\Dice.GeneratedMSBuildEditorConfig.editorconfig
+D:\for github\Dice\Dice\obj\Debug\net8.0\Dice.AssemblyInfoInputs.cache
+D:\for github\Dice\Dice\obj\Debug\net8.0\Dice.AssemblyInfo.cs
+D:\for github\Dice\Dice\obj\Debug\net8.0\Dice.csproj.CoreCompileInputs.cache
+D:\for github\Dice\Dice\bin\Debug\net8.0\Dice.exe
+D:\for github\Dice\Dice\bin\Debug\net8.0\Dice.deps.json
+D:\for github\Dice\Dice\bin\Debug\net8.0\Dice.runtimeconfig.json
+D:\for github\Dice\Dice\bin\Debug\net8.0\Dice.dll
+D:\for github\Dice\Dice\bin\Debug\net8.0\Dice.pdb
+D:\for github\Dice\Dice\obj\Debug\net8.0\Dice.dll
+D:\for github\Dice\Dice\obj\Debug\net8.0\refint\Dice.dll
+D:\for github\Dice\Dice\obj\Debug\net8.0\Dice.pdb
+D:\for github\Dice\Dice\obj\Debug\net8.0\Dice.genruntimeconfig.cache
+D:\for github\Dice\Dice\obj\Debug\net8.0\ref\Dice.dll
